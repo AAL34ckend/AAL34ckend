@@ -52,6 +52,7 @@
 - **Database**:
 	
 	![Myslq](https://img.shields.io/badge/Mysql%20-%23de8a2a.svg?style=for-the-badge&logo=mysql&logoColor=white)
+	![Postgre](https://img.shields.io/badge/Postgre%20-%23de8a2a.svg?style=for-the-badge&logo=postgre&logoColor=white)
 	
 <br>
 
