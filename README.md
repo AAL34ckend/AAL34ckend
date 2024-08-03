@@ -7,11 +7,6 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -29,12 +24,14 @@
 	![tailwind](https://img.shields.io/badge/Tailwind%20-%2345b8d6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 	![tailwind](https://img.shields.io/badge/React%20-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 	![flutter](https://img.shields.io/badge/Flutter%20-%2342beee.svg?style=for-the-badge&logo=flutter&logoColor=white)
+	![flask](https://img.shields.io/badge/Flask%20-%2342beee.svg?style=for-the-badge&logo=flutter&logoColor=white)
 	
 <br>
 	
 - **Backend**:
     
     ![php](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![python](https://img.shields.io/badge/PYTHON%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>   
     
