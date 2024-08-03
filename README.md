@@ -24,14 +24,14 @@
 	![tailwind](https://img.shields.io/badge/Tailwind%20-%2345b8d6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 	![tailwind](https://img.shields.io/badge/React%20-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 	![flutter](https://img.shields.io/badge/Flutter%20-%2342beee.svg?style=for-the-badge&logo=flutter&logoColor=white)
-	![flask](https://img.shields.io/badge/Flask%20-%2342beee.svg?style=for-the-badge&logo=flutter&logoColor=white)
+	![flask](https://img.shields.io/badge/Flask%20-%2342beee.svg?style=for-the-badge&logo=flask&logoColor=white)
 	
 <br>
 	
 - **Backend**:
     
     ![php](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![python](https://img.shields.io/badge/PYTHON%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![python](https://img.shields.io/badge/PYTHON%20-%232370ED.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
