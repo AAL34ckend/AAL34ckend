@@ -1,13 +1,10 @@
-
 <h1 align="center"><b>Hi there, I'm Abdurrachman Almanshurah</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -16,25 +13,26 @@
 <br>
 
 <p align="center">
-	
+
 - **Framework use**:
-	
+
 	![laravel](https://img.shields.io/badge/Laravel%20-%23e7422e.svg?style=for-the-badge&logo=laravel&logoColor=white)
 	![bootstrap](https://img.shields.io/badge/Bootstrap%20-%23886bf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 	![tailwind](https://img.shields.io/badge/Tailwind%20-%2345b8d6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-	![tailwind](https://img.shields.io/badge/React%20-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+	![react](https://img.shields.io/badge/React%20-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 	![flutter](https://img.shields.io/badge/Flutter%20-%2342beee.svg?style=for-the-badge&logo=flutter&logoColor=white)
 	![flask](https://img.shields.io/badge/Flask%20-%2342beee.svg?style=for-the-badge&logo=flask&logoColor=white)
-	
+	![nextjs](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 <br>
-	
+
 - **Backend**:
-    
+
     ![php](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
     ![python](https://img.shields.io/badge/PYTHON%20-%232370ED.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
-    
+
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,10 +48,11 @@
 <br/>
 
 - **Database**:
-	
+
 	![Myslq](https://img.shields.io/badge/Mysql%20-%23de8a2a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 	![Postgre](https://img.shields.io/badge/Postgre%20-%23de8a2a.svg?style=for-the-badge&logo=postgre&logoColor=white)
-	
+	![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <br>
 
 - **Softwares and Tools**:
@@ -87,7 +86,7 @@
 <br>
 
 <div align="center">
-	
+
 </div>
 
 <br>
